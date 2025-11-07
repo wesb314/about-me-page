@@ -1,0 +1,20 @@
+body {
+    background-color: lightgrey;
+}
+h1 {
+    color:blue;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 50 px;
+}
+h2 {
+    color:blue;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    font-size: 20 px;
+    font-weight: 500;
+}
+p {
+    color:darkgreen;
+    font-size: 12 px;
+}
